@@ -1,6 +1,6 @@
 <header>
   <h1>
-    Polls Toll
+    Poll Toll
   </h1>
 </header>
 
